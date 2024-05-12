@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Aryan 👋</h1>
-<h3 align="center">I'm a passionate Computer Science student from India.</h3>
+<h1 align="center">Aryan 🏄‍♂️ </h1>
+<h3 align="center">Hi there!👋.</h3>
 <h3 align="left">About me:</h3>
 <h3 align="left">I’m a passionate and forward thinking individual who thrives on embracing new challenges and continuously seeking opportunities for growth. I value critical thinking, punctuality and attention to detail. My experience with Python programming language has equipped me with the necessary skills to tackle complex problems and develop innovative solutions. However, my curiosity extends beyond the realms of traditional technologies. I am deeply intrigued by the constantly evolving landscape of emerging technologies and their potential to shape the future. I am committed to delivering exceptional results while collaborating with like minded individuals and organizations at the forefront of innovation.
 </h3>
