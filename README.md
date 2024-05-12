@@ -8,7 +8,6 @@ I’m a passionate and forward thinking individual who thrives on embracing new 
    </p>
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/xaryandesai?theme=dark)
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=xaryandesai&theme=dark&show_icons=true)
 
  ### Languages and Tools 🛠️
  <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
