@@ -18,5 +18,7 @@ I’m a passionate and forward thinking individual who thrives on embracing new 
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /><br>
 
 
-![](https://leetcard.jacoblin.cool/xaryandesai?animation=true)
+
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=dark)
 
