@@ -5,11 +5,10 @@ I’m a passionate and forward thinking individual who thrives on embracing new 
    <p align="left">
       <a href="https://github.com/ForrestKnight?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://twitter.com/xaryandesai" target="blank"><img src="https://img.shields.io/twitter/follow/xaryandesai?logo=twitter&style=for-the-badge" alt="xaryandesai" /></a>
+      
    </p>
-<h3 align="left">    </h3>
-<p align="left"> <a href="https://twitter.com/xaryandesai" target="blank"><img src="https://img.shields.io/twitter/follow/xaryandesai?logo=twitter&style=for-the-badge" alt="xaryandesai" /></a> </p>
-<p align="left">
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
