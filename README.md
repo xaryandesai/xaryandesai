@@ -5,8 +5,6 @@
 </h3>
 <h3 align="left">    </h3>
 <p align="left"> <a href="https://twitter.com/xaryandesai" target="blank"><img src="https://img.shields.io/twitter/follow/xaryandesai?logo=twitter&style=for-the-badge" alt="xaryandesai" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
