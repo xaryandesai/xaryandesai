@@ -10,7 +10,7 @@ I’m a passionate and forward thinking individual who thrives on embracing new 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/xaryandesai?theme=dark)
 
  ## Languages and Tools 🛠️
- [![My Skills](https://skillicons.dev/icons?i=python,javascript,html,css,git,github)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=javs,python,javascript,html,css,git,github)](https://skillicons.dev)
 
 
 
